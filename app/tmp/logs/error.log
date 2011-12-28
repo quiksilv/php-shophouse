@@ -1,0 +1,216 @@
+2010-12-21 09:30:47 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/themed/sexshopsg/products/sidenav.ctp, line 2]
+2010-12-21 09:30:53 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/themed/sexshopsg/products/sidenav.ctp, line 2]
+2010-12-21 09:31:24 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/themed/sexshopsg/products/sidenav.ctp, line 2]
+2010-12-21 09:45:49 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/themed/sexshopsg/products/sidenav.ctp, line 2]
+2010-12-21 09:46:48 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/themed/sexshopsg/products/sidenav.ctp, line 2]
+2010-12-21 09:48:54 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/themed/default/products/sidenav.ctp, line 2]
+2010-12-21 09:48:56 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/themed/default/products/sidenav.ctp, line 2]
+2010-12-21 09:50:53 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/themed/default/products/sidenav.ctp, line 2]
+2011-10-20 18:44:05 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/themed/default/products/sidenav.ctp, line 2]
+2011-10-20 18:44:06 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/themed/default/products/sidenav.ctp, line 2]
+2011-12-24 02:22:47 Warning: Warning (512): /var/www/html/shophouse/app/tmp/cache/ is not writable in [CORE/cake/libs/cache/file.php, line 262]
+2011-12-24 02:22:48 Warning: Warning (2): mysql_connect() [http://php.net/function.mysql-connect]: Access denied for user 'admin'@'localhost' (using password: YES) in [CORE/cake/libs/model/datasources/dbo/dbo_mysql.php, line 374]
+2011-12-24 02:22:48 Warning: Warning (2): mysql_select_db() expects parameter 2 to be resource, boolean given in [CORE/cake/libs/model/datasources/dbo/dbo_mysql.php, line 379]
+2011-12-24 02:22:48 Warning: Warning (2): mysql_get_server_info() expects parameter 1 to be resource, boolean given in [CORE/cake/libs/model/datasources/dbo/dbo_mysql.php, line 387]
+2011-12-24 02:22:48 Warning: Warning (2): mysql_query() expects parameter 2 to be resource, boolean given in [CORE/cake/libs/model/datasources/dbo/dbo_mysql.php, line 411]
+2011-12-24 02:26:00 Warning: Warning (512): /var/www/html/shophouse/app/tmp/cache/ is not writable in [CORE/cake/libs/cache/file.php, line 262]
+2011-12-24 02:26:00 Warning: Warning (512): /var/www/html/shophouse/app/tmp/cache/ is not writable in [CORE/cake/libs/cache/file.php, line 262]
+2011-12-24 02:48:30 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/themed/default/products/sidenav.ctp, line 2]
+2011-12-24 02:48:31 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/themed/default/products/sidenav.ctp, line 2]
+2011-12-24 02:48:41 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/themed/default/products/sidenav.ctp, line 2]
+2011-12-24 02:48:44 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/themed/default/products/sidenav.ctp, line 2]
+2011-12-24 02:48:49 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/themed/default/products/sidenav.ctp, line 2]
+2011-12-24 03:00:05 Warning: Warning (2): move_uploaded_file(files/tmp/temp.zip) [http://php.net/function.move-uploaded-file]: failed to open stream: Permission denied in [APP/controllers/components/zip.php, line 14]
+2011-12-24 03:00:05 Warning: Warning (2): move_uploaded_file() [http://php.net/function.move-uploaded-file]: Unable to move '/tmp/phpqc1K88' to 'files/tmp/temp.zip' in [APP/controllers/components/zip.php, line 14]
+2011-12-24 03:00:05 Warning: Warning (2): chmod() [http://php.net/function.chmod]: Operation not permitted in [APP/controllers/components/zip.php, line 15]
+2011-12-24 03:00:05 Warning: Warning (2): ZipArchive::extractTo(files/tmp//product_balm.png) [http://php.net/ziparchive.extractto]: failed to open stream: Permission denied in [APP/controllers/components/zip.php, line 46]
+2011-12-24 03:00:05 Warning: Warning (2): ZipArchive::extractTo(files/tmp//product_cards.png) [http://php.net/ziparchive.extractto]: failed to open stream: Permission denied in [APP/controllers/components/zip.php, line 46]
+2011-12-24 03:00:05 Warning: Warning (2): ZipArchive::extractTo(files/tmp//product_rabbit.png) [http://php.net/ziparchive.extractto]: failed to open stream: Permission denied in [APP/controllers/components/zip.php, line 46]
+2011-12-24 03:00:05 Warning: Warning (2): getimagesize(files/tmp/product_balm.png) [http://php.net/function.getimagesize]: failed to open stream: No such file or directory in [APP/controllers/components/zip.php, line 22]
+2011-12-24 03:00:05 Warning: Warning (2): rename(files/tmp/product_balm.png,files/products/a98863a35c978f5c3f2d00d73e4941ad.) [http://php.net/function.rename]: No such file or directory in [APP/controllers/components/zip.php, line 24]
+2011-12-24 03:00:05 Warning: Warning (2): filesize() [http://php.net/function.filesize]: stat failed for files/products/a98863a35c978f5c3f2d00d73e4941ad. in [APP/controllers/components/zip.php, line 34]
+2011-12-24 03:00:05 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1048: Column 'type' cannot be null</span> in [CORE/cake/libs/model/datasources/dbo_source.php, line 525]
+2011-12-24 03:00:05 Warning: Warning (2): getimagesize(files/products/a98863a35c978f5c3f2d00d73e4941ad.) [http://php.net/function.getimagesize]: failed to open stream: No such file or directory in [APP/controllers/components/image.php, line 36]
+2011-12-24 03:00:05 Warning: Warning (2): getimagesize(files/tmp/product_cards.png) [http://php.net/function.getimagesize]: failed to open stream: No such file or directory in [APP/controllers/components/zip.php, line 22]
+2011-12-24 03:00:05 Warning: Warning (2): rename(files/tmp/product_cards.png,files/products/00c18690fce079b017d06e8783e713b7.) [http://php.net/function.rename]: No such file or directory in [APP/controllers/components/zip.php, line 24]
+2011-12-24 03:00:05 Warning: Warning (2): filesize() [http://php.net/function.filesize]: stat failed for files/products/00c18690fce079b017d06e8783e713b7. in [APP/controllers/components/zip.php, line 34]
+2011-12-24 03:00:05 Warning: Warning (2): getimagesize(files/products/00c18690fce079b017d06e8783e713b7.) [http://php.net/function.getimagesize]: failed to open stream: No such file or directory in [APP/controllers/components/image.php, line 36]
+2011-12-24 03:00:05 Warning: Warning (2): getimagesize(files/tmp/product_rabbit.png) [http://php.net/function.getimagesize]: failed to open stream: No such file or directory in [APP/controllers/components/zip.php, line 22]
+2011-12-24 03:00:05 Warning: Warning (2): rename(files/tmp/product_rabbit.png,files/products/96ef9af7c8a41f34fdeb467cba9cce65.) [http://php.net/function.rename]: No such file or directory in [APP/controllers/components/zip.php, line 24]
+2011-12-24 03:00:05 Warning: Warning (2): filesize() [http://php.net/function.filesize]: stat failed for files/products/96ef9af7c8a41f34fdeb467cba9cce65. in [APP/controllers/components/zip.php, line 34]
+2011-12-24 03:00:05 Warning: Warning (2): getimagesize(files/products/96ef9af7c8a41f34fdeb467cba9cce65.) [http://php.net/function.getimagesize]: failed to open stream: No such file or directory in [APP/controllers/components/image.php, line 36]
+2011-12-24 03:00:12 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/themed/default/products/sidenav.ctp, line 2]
+2011-12-24 03:00:48 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/themed/default/products/sidenav.ctp, line 2]
+2011-12-24 03:00:55 Warning: Warning (2): move_uploaded_file(files/tmp/temp.zip) [http://php.net/function.move-uploaded-file]: failed to open stream: Permission denied in [APP/controllers/components/zip.php, line 14]
+2011-12-24 03:00:55 Warning: Warning (2): move_uploaded_file() [http://php.net/function.move-uploaded-file]: Unable to move '/tmp/phptfHLQf' to 'files/tmp/temp.zip' in [APP/controllers/components/zip.php, line 14]
+2011-12-24 03:00:55 Warning: Warning (2): chmod() [http://php.net/function.chmod]: Operation not permitted in [APP/controllers/components/zip.php, line 15]
+2011-12-24 03:00:55 Warning: Warning (2): ZipArchive::extractTo(files/tmp//product_balm.png) [http://php.net/ziparchive.extractto]: failed to open stream: Permission denied in [APP/controllers/components/zip.php, line 46]
+2011-12-24 03:00:55 Warning: Warning (2): ZipArchive::extractTo(files/tmp//product_cards.png) [http://php.net/ziparchive.extractto]: failed to open stream: Permission denied in [APP/controllers/components/zip.php, line 46]
+2011-12-24 03:00:55 Warning: Warning (2): ZipArchive::extractTo(files/tmp//product_rabbit.png) [http://php.net/ziparchive.extractto]: failed to open stream: Permission denied in [APP/controllers/components/zip.php, line 46]
+2011-12-24 03:00:55 Warning: Warning (2): getimagesize(files/tmp/product_balm.png) [http://php.net/function.getimagesize]: failed to open stream: No such file or directory in [APP/controllers/components/zip.php, line 22]
+2011-12-24 03:00:55 Warning: Warning (2): rename(files/tmp/product_balm.png,files/products/8d14166a6ece80c0b9d1c24e0153ec5c.) [http://php.net/function.rename]: No such file or directory in [APP/controllers/components/zip.php, line 24]
+2011-12-24 03:00:55 Warning: Warning (2): filesize() [http://php.net/function.filesize]: stat failed for files/products/8d14166a6ece80c0b9d1c24e0153ec5c. in [APP/controllers/components/zip.php, line 34]
+2011-12-24 03:00:55 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1048: Column 'type' cannot be null</span> in [CORE/cake/libs/model/datasources/dbo_source.php, line 525]
+2011-12-24 03:00:55 Warning: Warning (2): getimagesize(files/products/8d14166a6ece80c0b9d1c24e0153ec5c.) [http://php.net/function.getimagesize]: failed to open stream: No such file or directory in [APP/controllers/components/image.php, line 36]
+2011-12-24 03:00:55 Warning: Warning (2): getimagesize(files/tmp/product_cards.png) [http://php.net/function.getimagesize]: failed to open stream: No such file or directory in [APP/controllers/components/zip.php, line 22]
+2011-12-24 03:00:55 Warning: Warning (2): rename(files/tmp/product_cards.png,files/products/1b9597bf4fe359fcabe718bd38756672.) [http://php.net/function.rename]: No such file or directory in [APP/controllers/components/zip.php, line 24]
+2011-12-24 03:00:55 Warning: Warning (2): filesize() [http://php.net/function.filesize]: stat failed for files/products/1b9597bf4fe359fcabe718bd38756672. in [APP/controllers/components/zip.php, line 34]
+2011-12-24 03:00:55 Warning: Warning (2): getimagesize(files/products/1b9597bf4fe359fcabe718bd38756672.) [http://php.net/function.getimagesize]: failed to open stream: No such file or directory in [APP/controllers/components/image.php, line 36]
+2011-12-24 03:00:55 Warning: Warning (2): getimagesize(files/tmp/product_rabbit.png) [http://php.net/function.getimagesize]: failed to open stream: No such file or directory in [APP/controllers/components/zip.php, line 22]
+2011-12-24 03:00:55 Warning: Warning (2): rename(files/tmp/product_rabbit.png,files/products/29822282294a7f110f0f4e12bd7a516d.) [http://php.net/function.rename]: No such file or directory in [APP/controllers/components/zip.php, line 24]
+2011-12-24 03:00:55 Warning: Warning (2): filesize() [http://php.net/function.filesize]: stat failed for files/products/29822282294a7f110f0f4e12bd7a516d. in [APP/controllers/components/zip.php, line 34]
+2011-12-24 03:00:55 Warning: Warning (2): getimagesize(files/products/29822282294a7f110f0f4e12bd7a516d.) [http://php.net/function.getimagesize]: failed to open stream: No such file or directory in [APP/controllers/components/image.php, line 36]
+2011-12-24 03:02:15 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/themed/default/products/sidenav.ctp, line 2]
+2011-12-24 03:02:19 Warning: Warning (2): move_uploaded_file(files/tmp/temp.zip) [http://php.net/function.move-uploaded-file]: failed to open stream: Permission denied in [APP/controllers/components/zip.php, line 14]
+2011-12-24 03:02:19 Warning: Warning (2): move_uploaded_file() [http://php.net/function.move-uploaded-file]: Unable to move '/tmp/phpFuzc0O' to 'files/tmp/temp.zip' in [APP/controllers/components/zip.php, line 14]
+2011-12-24 03:02:19 Warning: Warning (2): chmod() [http://php.net/function.chmod]: Operation not permitted in [APP/controllers/components/zip.php, line 15]
+2011-12-24 03:02:19 Warning: Warning (2): ZipArchive::extractTo(files/tmp//product_balm.png) [http://php.net/ziparchive.extractto]: failed to open stream: Permission denied in [APP/controllers/components/zip.php, line 46]
+2011-12-24 03:02:19 Warning: Warning (2): ZipArchive::extractTo(files/tmp//product_cards.png) [http://php.net/ziparchive.extractto]: failed to open stream: Permission denied in [APP/controllers/components/zip.php, line 46]
+2011-12-24 03:02:19 Warning: Warning (2): ZipArchive::extractTo(files/tmp//product_rabbit.png) [http://php.net/ziparchive.extractto]: failed to open stream: Permission denied in [APP/controllers/components/zip.php, line 46]
+2011-12-24 03:02:19 Warning: Warning (2): getimagesize(files/tmp/product_balm.png) [http://php.net/function.getimagesize]: failed to open stream: No such file or directory in [APP/controllers/components/zip.php, line 22]
+2011-12-24 03:02:19 Warning: Warning (2): rename(files/tmp/product_balm.png,files/products/caacd53ad06eabad8cda0d2f61c1fe7b.) [http://php.net/function.rename]: No such file or directory in [APP/controllers/components/zip.php, line 24]
+2011-12-24 03:02:19 Warning: Warning (2): filesize() [http://php.net/function.filesize]: stat failed for files/products/caacd53ad06eabad8cda0d2f61c1fe7b. in [APP/controllers/components/zip.php, line 34]
+2011-12-24 03:02:19 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1048: Column 'type' cannot be null</span> in [CORE/cake/libs/model/datasources/dbo_source.php, line 525]
+2011-12-24 03:02:19 Warning: Warning (2): getimagesize(files/products/caacd53ad06eabad8cda0d2f61c1fe7b.) [http://php.net/function.getimagesize]: failed to open stream: No such file or directory in [APP/controllers/components/image.php, line 36]
+2011-12-24 03:02:20 Warning: Warning (2): getimagesize(files/tmp/product_cards.png) [http://php.net/function.getimagesize]: failed to open stream: No such file or directory in [APP/controllers/components/zip.php, line 22]
+2011-12-24 03:02:20 Warning: Warning (2): rename(files/tmp/product_cards.png,files/products/645d2b7f01e2e201aa3d33237918e82e.) [http://php.net/function.rename]: No such file or directory in [APP/controllers/components/zip.php, line 24]
+2011-12-24 03:02:20 Warning: Warning (2): filesize() [http://php.net/function.filesize]: stat failed for files/products/645d2b7f01e2e201aa3d33237918e82e. in [APP/controllers/components/zip.php, line 34]
+2011-12-24 03:02:20 Warning: Warning (2): getimagesize(files/products/645d2b7f01e2e201aa3d33237918e82e.) [http://php.net/function.getimagesize]: failed to open stream: No such file or directory in [APP/controllers/components/image.php, line 36]
+2011-12-24 03:02:20 Warning: Warning (2): getimagesize(files/tmp/product_rabbit.png) [http://php.net/function.getimagesize]: failed to open stream: No such file or directory in [APP/controllers/components/zip.php, line 22]
+2011-12-24 03:02:20 Warning: Warning (2): rename(files/tmp/product_rabbit.png,files/products/786db354ec68252305188f655a1fa590.) [http://php.net/function.rename]: No such file or directory in [APP/controllers/components/zip.php, line 24]
+2011-12-24 03:02:20 Warning: Warning (2): filesize() [http://php.net/function.filesize]: stat failed for files/products/786db354ec68252305188f655a1fa590. in [APP/controllers/components/zip.php, line 34]
+2011-12-24 03:02:20 Warning: Warning (2): getimagesize(files/products/786db354ec68252305188f655a1fa590.) [http://php.net/function.getimagesize]: failed to open stream: No such file or directory in [APP/controllers/components/image.php, line 36]
+2011-12-24 03:02:35 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/themed/default/products/sidenav.ctp, line 2]
+2011-12-24 03:03:34 Warning: Warning (2): rename(files/tmp/ayam_masak_merah_thumb.jpg,files/products/ec663469b86f3843a0f4dffad6448f46.jpeg) [http://php.net/function.rename]: Permission denied in [APP/controllers/components/zip.php, line 24]
+2011-12-24 03:03:34 Warning: Warning (2): filesize() [http://php.net/function.filesize]: stat failed for files/products/ec663469b86f3843a0f4dffad6448f46.jpeg in [APP/controllers/components/zip.php, line 34]
+2011-12-24 03:03:34 Warning: Warning (2): getimagesize(files/products/ec663469b86f3843a0f4dffad6448f46.jpeg) [http://php.net/function.getimagesize]: failed to open stream: No such file or directory in [APP/controllers/components/image.php, line 36]
+2011-12-24 03:03:34 Warning: Warning (2): rename(files/tmp/beef_satay_thumb.jpg,files/products/7515161f591932bf231c7cbbed14b0f0.jpeg) [http://php.net/function.rename]: Permission denied in [APP/controllers/components/zip.php, line 24]
+2011-12-24 03:03:34 Warning: Warning (2): filesize() [http://php.net/function.filesize]: stat failed for files/products/7515161f591932bf231c7cbbed14b0f0.jpeg in [APP/controllers/components/zip.php, line 34]
+2011-12-24 03:03:35 Warning: Warning (2): getimagesize(files/products/7515161f591932bf231c7cbbed14b0f0.jpeg) [http://php.net/function.getimagesize]: failed to open stream: No such file or directory in [APP/controllers/components/image.php, line 36]
+2011-12-24 03:03:35 Warning: Warning (2): rename(files/tmp/mexican_coffee_buns_thumb.jpg,files/products/b7f5782af8eb5a6ff22d7414cec92632.jpeg) [http://php.net/function.rename]: Permission denied in [APP/controllers/components/zip.php, line 24]
+2011-12-24 03:03:35 Warning: Warning (2): filesize() [http://php.net/function.filesize]: stat failed for files/products/b7f5782af8eb5a6ff22d7414cec92632.jpeg in [APP/controllers/components/zip.php, line 34]
+2011-12-24 03:03:35 Warning: Warning (2): getimagesize(files/products/b7f5782af8eb5a6ff22d7414cec92632.jpeg) [http://php.net/function.getimagesize]: failed to open stream: No such file or directory in [APP/controllers/components/image.php, line 36]
+2011-12-24 03:03:35 Warning: Warning (2): rename(files/tmp/spicy_honey_chicken__thumb.jpg,files/products/01cfe70d31fd6d71f860d510d68dbe47.jpeg) [http://php.net/function.rename]: Permission denied in [APP/controllers/components/zip.php, line 24]
+2011-12-24 03:03:35 Warning: Warning (2): filesize() [http://php.net/function.filesize]: stat failed for files/products/01cfe70d31fd6d71f860d510d68dbe47.jpeg in [APP/controllers/components/zip.php, line 34]
+2011-12-24 03:03:35 Warning: Warning (2): getimagesize(files/products/01cfe70d31fd6d71f860d510d68dbe47.jpeg) [http://php.net/function.getimagesize]: failed to open stream: No such file or directory in [APP/controllers/components/image.php, line 36]
+2011-12-24 03:06:42 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/themed/default/products/sidenav.ctp, line 2]
+2011-12-24 03:06:52 Error: JPEG file resized at files/products/thumbnails/8320837b5108b89541b16e5a582b65fd.jpegactivity
+2011-12-24 03:06:52 Error: JPEG file resized at files/products/optimal/8320837b5108b89541b16e5a582b65fd.jpegactivity
+2011-12-24 03:06:52 Error: JPEG file resized at files/products/thumbnails/57709c6c49c5f91fb2fb2001c91ae341.jpegactivity
+2011-12-24 03:06:52 Error: JPEG file resized at files/products/optimal/57709c6c49c5f91fb2fb2001c91ae341.jpegactivity
+2011-12-24 03:06:52 Error: JPEG file resized at files/products/thumbnails/fcdf9ab286b3738a47636d4052509eb0.jpegactivity
+2011-12-24 03:06:52 Error: JPEG file resized at files/products/optimal/fcdf9ab286b3738a47636d4052509eb0.jpegactivity
+2011-12-24 03:06:52 Error: JPEG file resized at files/products/thumbnails/8018bd4684861f26cbfc155a1a925eda.jpegactivity
+2011-12-24 03:06:52 Error: JPEG file resized at files/products/optimal/8018bd4684861f26cbfc155a1a925eda.jpegactivity
+2011-12-24 03:06:57 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/themed/default/products/sidenav.ctp, line 2]
+2011-12-24 04:21:56 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/themed/default/products/sidenav.ctp, line 2]
+2011-12-24 04:22:34 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/themed/default/products/sidenav.ctp, line 2]
+2011-12-24 04:23:00 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/themed/default/products/sidenav.ctp, line 2]
+2011-12-24 04:23:37 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/themed/default/products/sidenav.ctp, line 2]
+2011-12-24 04:25:01 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/themed/default/products/sidenav.ctp, line 2]
+2011-12-24 04:25:04 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/themed/default/products/sidenav.ctp, line 2]
+2011-12-24 04:26:35 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/themed/default/products/sidenav.ctp, line 2]
+2011-12-24 04:26:49 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/themed/default/products/sidenav.ctp, line 2]
+2011-12-24 04:27:57 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/themed/default/products/sidenav.ctp, line 2]
+2011-12-24 04:28:00 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/themed/default/products/sidenav.ctp, line 2]
+2011-12-24 04:28:01 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/themed/default/products/sidenav.ctp, line 2]
+2011-12-24 04:28:59 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/themed/default/products/sidenav.ctp, line 2]
+2011-12-24 04:29:01 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/themed/default/products/sidenav.ctp, line 2]
+2011-12-24 04:29:18 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/themed/default/products/sidenav.ctp, line 2]
+2011-12-24 04:29:20 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/themed/default/products/sidenav.ctp, line 2]
+2011-12-24 04:29:22 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/themed/default/products/sidenav.ctp, line 2]
+2011-12-24 04:29:23 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/themed/default/products/sidenav.ctp, line 2]
+2011-12-24 04:29:28 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/themed/default/products/sidenav.ctp, line 2]
+2011-12-24 04:29:34 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/themed/default/products/sidenav.ctp, line 2]
+2011-12-24 04:31:08 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/themed/default/products/sidenav.ctp, line 2]
+2011-12-24 04:31:32 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/themed/default/products/sidenav.ctp, line 2]
+2011-12-24 04:32:05 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/themed/default/products/sidenav.ctp, line 2]
+2011-12-24 04:33:13 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/themed/default/products/sidenav.ctp, line 2]
+2011-12-24 04:34:10 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/themed/default/products/sidenav.ctp, line 2]
+2011-12-24 04:36:12 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/themed/default/products/sidenav.ctp, line 2]
+2011-12-24 04:39:01 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/themed/default/products/sidenav.ctp, line 2]
+2011-12-24 04:39:04 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/themed/default/products/sidenav.ctp, line 2]
+2011-12-24 04:39:06 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/themed/default/products/sidenav.ctp, line 2]
+2011-12-24 04:40:05 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/themed/default/products/sidenav.ctp, line 2]
+2011-12-24 04:40:37 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/themed/default/products/sidenav.ctp, line 2]
+2011-12-24 04:40:48 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/themed/default/products/sidenav.ctp, line 2]
+2011-12-24 04:40:50 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/themed/default/products/sidenav.ctp, line 2]
+2011-12-24 04:40:52 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/themed/default/products/sidenav.ctp, line 2]
+2011-12-24 04:41:46 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/themed/default/products/sidenav.ctp, line 2]
+2011-12-24 04:42:03 Error: JPEG file resized at files/products/thumbnails/a88e227a94f275372a105d8de68627e4.jpegactivity
+2011-12-24 04:42:03 Error: JPEG file resized at files/products/optimal/a88e227a94f275372a105d8de68627e4.jpegactivity
+2011-12-24 04:42:08 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/themed/default/products/sidenav.ctp, line 2]
+2011-12-24 04:42:16 Error: JPEG file resized at files/products/thumbnails/aab158c973ec9ea23d7f4da75691c1a5.jpegactivity
+2011-12-24 04:42:16 Error: JPEG file resized at files/products/optimal/aab158c973ec9ea23d7f4da75691c1a5.jpegactivity
+2011-12-24 04:42:20 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/themed/default/products/sidenav.ctp, line 2]
+2011-12-24 04:42:29 Error: JPEG file resized at files/products/thumbnails/dddb81fc55bebaeb661c01dd5c262c6a.jpegactivity
+2011-12-24 04:42:29 Error: JPEG file resized at files/products/optimal/dddb81fc55bebaeb661c01dd5c262c6a.jpegactivity
+2011-12-24 04:42:31 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/themed/default/products/sidenav.ctp, line 2]
+2011-12-24 04:42:37 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/themed/default/products/sidenav.ctp, line 2]
+2011-12-24 04:42:47 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/themed/default/products/sidenav.ctp, line 2]
+2011-12-24 04:42:49 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/themed/default/products/sidenav.ctp, line 2]
+2011-12-24 04:42:57 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/themed/default/products/sidenav.ctp, line 2]
+2011-12-24 04:43:14 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/themed/default/products/sidenav.ctp, line 2]
+2011-12-24 04:43:21 Error: JPEG file resized at files/products/thumbnails/4b1f635f7d407a7bc08ef80fd553dca2.jpegactivity
+2011-12-24 04:43:21 Error: JPEG file resized at files/products/optimal/4b1f635f7d407a7bc08ef80fd553dca2.jpegactivity
+2011-12-24 04:43:21 Error: JPEG file resized at files/products/thumbnails/aa3cef448597b92f451bbf183a97bf29.jpegactivity
+2011-12-24 04:43:21 Error: JPEG file resized at files/products/optimal/aa3cef448597b92f451bbf183a97bf29.jpegactivity
+2011-12-24 04:43:21 Error: JPEG file resized at files/products/thumbnails/cb75bee1ee540ee7d3eb0da2739971b8.jpegactivity
+2011-12-24 04:43:21 Error: JPEG file resized at files/products/optimal/cb75bee1ee540ee7d3eb0da2739971b8.jpegactivity
+2011-12-24 04:43:21 Error: JPEG file resized at files/products/thumbnails/4abf8cf6816641743fa7dc0de8e477e7.jpegactivity
+2011-12-24 04:43:21 Error: JPEG file resized at files/products/optimal/4abf8cf6816641743fa7dc0de8e477e7.jpegactivity
+2011-12-24 11:04:51 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/themed/default/products/sidenav.ctp, line 2]
+2011-12-24 11:04:58 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/themed/default/products/sidenav.ctp, line 2]
+2011-12-24 11:05:00 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/themed/default/products/sidenav.ctp, line 2]
+2011-12-24 11:05:01 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/themed/default/products/sidenav.ctp, line 2]
+2011-12-27 08:24:19 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/themed/default/products/sidenav.ctp, line 2]
+2011-12-27 08:28:28 Error: JPEG file resized at files/products/thumbnails/a61a1b710f84cb0fa782004f06e47218.jpegactivity
+2011-12-27 08:28:28 Error: JPEG file resized at files/products/optimal/a61a1b710f84cb0fa782004f06e47218.jpegactivity
+2011-12-27 08:28:37 Error: JPEG file resized at files/products/thumbnails/902f17e446c10866f7528cf3da1294c5.jpegactivity
+2011-12-27 08:28:37 Error: JPEG file resized at files/products/optimal/902f17e446c10866f7528cf3da1294c5.jpegactivity
+2011-12-27 15:27:26 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/themed/default/products/sidenav.ctp, line 2]
+2011-12-27 15:27:34 Error: JPEG file resized at files/products/thumbnails/7ffa2ecd9be09e122644152092747a20.jpegactivity
+2011-12-27 15:27:34 Error: JPEG file resized at files/products/optimal/7ffa2ecd9be09e122644152092747a20.jpegactivity
+2011-12-27 15:27:34 Error: JPEG file resized at files/products/thumbnails/4b7b1c3585768122b1d229e38fce360c.jpegactivity
+2011-12-27 15:27:35 Error: JPEG file resized at files/products/optimal/4b7b1c3585768122b1d229e38fce360c.jpegactivity
+2011-12-27 15:27:35 Error: JPEG file resized at files/products/thumbnails/b83c64f7c6b2d7bf1a147a0d79b8c236.jpegactivity
+2011-12-27 15:27:35 Error: JPEG file resized at files/products/optimal/b83c64f7c6b2d7bf1a147a0d79b8c236.jpegactivity
+2011-12-27 15:27:35 Error: JPEG file resized at files/products/thumbnails/40281753f30d57c784efdf09718d701a.jpegactivity
+2011-12-27 15:27:35 Error: JPEG file resized at files/products/optimal/40281753f30d57c784efdf09718d701a.jpegactivity
+2011-12-27 17:00:51 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1054: Unknown column 'ASC' in 'order clause'</span> in [CORE/cake/libs/model/datasources/dbo_source.php, line 525]
+2011-12-27 17:30:09 Error: JPEG file resized at files/products/thumbnails/22f43a7fe0d6d1fd7e3221f9b3757b35.jpegactivity
+2011-12-27 17:30:09 Error: JPEG file resized at files/products/optimal/22f43a7fe0d6d1fd7e3221f9b3757b35.jpegactivity
+2011-12-27 17:59:14 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/themed/default/products/sidenav.ctp, line 8]
+2011-12-27 18:05:43 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1054: Unknown column 'parent_id' in 'where clause'</span> in [CORE/cake/libs/model/datasources/dbo_source.php, line 525]
+2011-12-27 18:05:43 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/controllers/products_controller.php, line 212]
+2011-12-27 18:05:43 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/themed/default/products/sidenav.ctp, line 8]
+2011-12-27 18:06:13 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1054: Unknown column 'parent_id' in 'where clause'</span> in [CORE/cake/libs/model/datasources/dbo_source.php, line 525]
+2011-12-27 18:06:13 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/controllers/products_controller.php, line 212]
+2011-12-27 18:06:13 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/themed/default/products/sidenav.ctp, line 8]
+2011-12-27 18:07:07 Error: JPEG file resized at files/products/thumbnails/fda63e4c3b319a3fa58d11007ca891a2.jpegactivity
+2011-12-27 18:07:07 Error: JPEG file resized at files/products/optimal/fda63e4c3b319a3fa58d11007ca891a2.jpegactivity
+2011-12-27 18:07:07 Error: JPEG file resized at files/products/thumbnails/0381f21713e65a47a859cf310c5dc001.jpegactivity
+2011-12-27 18:07:07 Error: JPEG file resized at files/products/optimal/0381f21713e65a47a859cf310c5dc001.jpegactivity
+2011-12-27 18:07:07 Error: JPEG file resized at files/products/thumbnails/056ab4eecd4212c6180e8ad048418cd3.jpegactivity
+2011-12-27 18:07:07 Error: JPEG file resized at files/products/optimal/056ab4eecd4212c6180e8ad048418cd3.jpegactivity
+2011-12-27 18:07:07 Error: JPEG file resized at files/products/thumbnails/0347732298968d452c9e07a040505566.jpegactivity
+2011-12-27 18:07:07 Error: JPEG file resized at files/products/optimal/0347732298968d452c9e07a040505566.jpegactivity
+2011-12-27 18:07:07 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1054: Unknown column 'Product.parent_id' in 'field list'</span> in [CORE/cake/libs/model/datasources/dbo_source.php, line 525]
+2011-12-27 18:07:07 Warning: Warning (2): array_values() expects parameter 1 to be array, boolean given in [CORE/cake/libs/model/behaviors/tree.php, line 810]
+2011-12-27 18:07:20 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1054: Unknown column 'parent_id' in 'where clause'</span> in [CORE/cake/libs/model/datasources/dbo_source.php, line 525]
+2011-12-27 18:07:20 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/controllers/products_controller.php, line 212]
+2011-12-27 18:07:20 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/themed/default/products/sidenav.ctp, line 8]
+2011-12-27 18:08:49 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/themed/default/products/sidenav.ctp, line 8]
+2011-12-27 18:09:23 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/themed/default/products/sidenav.ctp, line 8]
+2011-12-27 18:09:28 Error: JPEG file resized at files/products/thumbnails/6b388e48f621a0c2fa299c05ed9ab58f.jpegactivity
+2011-12-27 18:09:28 Error: JPEG file resized at files/products/optimal/6b388e48f621a0c2fa299c05ed9ab58f.jpegactivity
+2011-12-27 18:09:28 Error: JPEG file resized at files/products/thumbnails/cb6cc91327dc80e1b31432ceea140887.jpegactivity
+2011-12-27 18:09:28 Error: JPEG file resized at files/products/optimal/cb6cc91327dc80e1b31432ceea140887.jpegactivity
+2011-12-27 18:09:28 Error: JPEG file resized at files/products/thumbnails/2798ef1af6c9b95ca42feccdc0c9c682.jpegactivity
+2011-12-27 18:09:28 Error: JPEG file resized at files/products/optimal/2798ef1af6c9b95ca42feccdc0c9c682.jpegactivity
+2011-12-27 18:09:28 Error: JPEG file resized at files/products/thumbnails/53476ace08b776b77dafa41e14c5eab8.jpegactivity
+2011-12-27 18:09:28 Error: JPEG file resized at files/products/optimal/53476ace08b776b77dafa41e14c5eab8.jpegactivity
+2011-12-27 18:18:26 Error: JPEG file resized at files/products/thumbnails/4687fc2b2699b12317dc9e186dbe2106.jpegactivity
+2011-12-27 18:18:26 Error: JPEG file resized at files/products/optimal/4687fc2b2699b12317dc9e186dbe2106.jpegactivity
+2011-12-27 22:33:25 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /var/www/html/shophouse/cake/basics.php:307) in [CORE/cake/libs/controller/controller.php, line 644]
+2011-12-28 14:48:18 Warning: Warning (512): Method AbTestHelper::conversion does not exist in [CORE/cake/libs/view/helper.php, line 143]

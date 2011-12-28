@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Banners>
+
+	<Banner>
+		<Source>/flash/a1.jpg</Source>
+		<Link>http://www.jyent.com.sg</Link>
+		<TimeDelay>4</TimeDelay>		
+	</Banner>
+	
+	<Banner>
+		<Source>/flash/a2.jpg</Source>
+		<Link>http://www.jyent.com.sg</Link>
+		<TimeDelay>4</TimeDelay>		
+	</Banner>
+
+	<Banner>
+		<Source>/flash/a3.jpg</Source>
+		<Link>http://www.jyent.com.sg</Link>
+		<TimeDelay>4</TimeDelay>		
+	</Banner>
+	
+	<Banner>
+		<Source>/flash/a4.jpg</Source>
+		<Link>http://www.jyent.com.sg</Link>
+		<LinkTarget>blank</LinkTarget>
+		<TimeDelay>4</TimeDelay>
+	</Banner>
+	
+	<Banner>
+		<Source>/flash/a5.jpg</Source>
+		<Link>http://www.jyent.com.sg</Link>
+		<TimeDelay>4</TimeDelay>
+	</Banner>
+</Banners>
